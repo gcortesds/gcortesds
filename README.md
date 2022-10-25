@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gcortesds
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL, Python, and R
+- 📫 How to reach me: guillermocortesds@gmail.com
